@@ -1,9 +1,9 @@
-#Command Line Dictionary Tool
+# Command Line Dictionary Tool
 
-##Functionality
+## Functionality
 The command line tool has the following functionality- 
 
-###1. Word Definitions
+### 1. Word Definitions
 Display definitions of a word. 
 commands to implement this functionality:
 
@@ -16,7 +16,7 @@ commands to implement this functionality:
 
     functionality of all the above commands is the same.
 
-###2. Word Examples
+### 2. Word Examples
 Display examples of a word
 commands to implement this functionality:
 
@@ -29,7 +29,7 @@ commands to implement this functionality:
 
     functionality of all the above commands is the same.
 
-###3. Word Full Dict
+### 3. Word Full Dict
 Display definitions & examples of a word
 commands to implement this functionality:
 
@@ -48,13 +48,13 @@ commands to implement this functionality:
 
     functionality of all the above commands is the same.
 
-###4. Word of the Day Full Dict
+### 4. Word of the Day Full Dict
 Display definitions & examples of word of the day
 command to implement this functionality:
 
 >node dict
 
-###7. Word Game
+### 7. Word Game
 The program displays a definition and ask the user to enter the word
 
 	If the correct word is entered, program should will that the word is correct.
@@ -75,7 +75,7 @@ commands to implement this functionality:
 
 
 
-###Note
+### Note
 The below 2 functionalities are not implemented because the api's for this are not given.
 Further /relatedWords api is returning an empty object for any word given.
  Word Synonyms
